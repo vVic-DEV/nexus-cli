@@ -18,3 +18,6 @@ Install globally via npm:
 
 ```bash
 npm install -g nexus-cli
+
+ISC
+ © 2025 VicDev
