@@ -20,6 +20,23 @@ Install globally via npm:
 npm install -g nexus-cli
 
 ```
+
+# Nexus CLI Packaging
+
+## Cross-Platform Packaging Command
+
+You can now package Nexus CLI for **macOS** or **Windows** with a single command:
+
+### Usage
+
+```bash
+# Package for your current OS
+nexus package
+
+# On macOS, package and launch immediately
+nexus package --start
+
 ISC
  © 2025 VicDev
+
 
